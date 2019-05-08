@@ -1,4 +1,4 @@
-# wmc2014-IPA
+# wmc2014-ipa
 A notebook for processing response data from Warner, McQueen & Cutler (2014)'s response data to use Unicode IPA symbols and adding explicit representation of stimuli contexts and prosodic structure.
 
 TODO
